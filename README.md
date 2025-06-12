@@ -23,7 +23,7 @@
 
 > Interface of ReconHunter GUI:
 
-![ReconHunter Screenshot](screenshot.png)
+![ReconHunter Screenshot](https://ibb.co/7xyq4VH7)
 
 ---
 
